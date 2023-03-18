@@ -8,10 +8,10 @@
 Be able to exchange information via APIs and JSON protocols, send GET/POST/PATCH requests, read relevant information for specific APIs and manipulate JSON/XML files.
 
 ### Notebooks
-* [xxx](python_basics_recap.ipynb)
-* [xxx](python_intermediate_recap.ipynb)
-* [xxx](python_email_password_validation.ipynb)
-* [xxx](python_interview_questions.ipynb)
+* [nb1](python_basics_recap.ipynb)
+* [nb2](python_intermediate_recap.ipynb)
+* [nb3](python_email_password_validation.ipynb)
+* [nb4](python_interview_questions.ipynb)
 
 ### Sources
 * xxx [Ace the Data Science Interview](https://www.acethedatascienceinterview.com/).
