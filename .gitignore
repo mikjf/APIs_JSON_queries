@@ -1,6 +1,9 @@
 # Standard .gitignore for Python, JupyterNotebooks, MacOS, Windows, Linux, dotenv, PyCharm, VisualStudioCode
 # Details at https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,macos,windows,linux,dotenv,pycharm,visualstudiocode
 
+# Credentials not to share
+credentials.json
+
 # Data not to share
 data/
 
