@@ -4,6 +4,9 @@
 # Credentials not to share
 credentials.json
 
+# Google credentials not to share
+google_credentials.yml
+
 # Data not to share
 data/
 
