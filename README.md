@@ -10,7 +10,7 @@ Be able to exchange information via APIs and JSON protocols, send GET/POST/PATCH
 ### Notebooks
 * [json_theory](json_theory.ipynb)
 * [http_requests](http_requests.ipynb)
-* [google_api_how_to](pgoogle_api_how_to.ipynb)
+* [google_api_how_to](google_api_how_to.ipynb)
 * [google_api_roadtrip](google_api_roadtrip.ipynb)
 * [nobel_prize_api_analysis](nobel_prize_api_analysis.ipynb)
 
