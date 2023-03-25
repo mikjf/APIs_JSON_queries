@@ -1,6 +1,9 @@
 # Standard .gitignore for Python, JupyterNotebooks, MacOS, Windows, Linux, dotenv, PyCharm, VisualStudioCode
 # Details at https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,macos,windows,linux,dotenv,pycharm,visualstudiocode
 
+# Hide json_theory_write_example
+json_theory_write_example.json
+
 # Credentials not to share
 credentials.json
 
